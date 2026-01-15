@@ -1,0 +1,28 @@
+"""
+Reusable prompt templates registered with the MCP server.
+"""
+
+
+def register(mcp):
+
+    @mcp.prompt()
+    def summarize(text: str) -> str:
+        """Prompt to summarize a block of text."""
+        return f"Summarize the following text concisely:\n\n{text}"
+
+    @mcp.prompt()
+    def explain_code(code: str, language: str = "Python") -> str:
+        """Prompt to explain a block of code."""
+        return (
+            f"Explain the following {language} code in plain English, "
+            f"step by step:\n\n```{language.lower()}\n{code}\n```"
+        )
+# feature commit 2026-03-22T10:00:00+05:30 fix: correct resource module comments
+# feature commit 2026-03-30T10:00:00+05:30 feat: polish resource registration functions
+# feature commit 2026-04-07T10:00:00+05:30 feat: refine provider constants
+# feature commit 2026-04-15T10:00:00+05:30 chore: add uv sync helper comments
+# feature commit 2026-04-23T10:00:00+05:30 refactor: tidy config and import structure
+# feature commit 2026-03-22T10:00:00+05:30 fix: correct resource module comments
+# feature commit 2026-03-30T10:00:00+05:30 feat: polish resource registration functions
+# feature commit 2026-04-07T10:00:00+05:30 feat: refine provider constants
+# feature commit 2026-04-15T10:00:00+05:30 chore: add uv sync helper comments

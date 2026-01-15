@@ -1,0 +1,13 @@
+.env
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.mypy_cache/
+.pytest_cache/
+.vscode/
+*.log
+rebuild_history.py
+continue_friday_history.py
