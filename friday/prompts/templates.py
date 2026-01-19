@@ -26,3 +26,4 @@ def register(mcp):
 # feature commit 2026-03-30T10:00:00+05:30 feat: polish resource registration functions
 # feature commit 2026-04-07T10:00:00+05:30 feat: refine provider constants
 # feature commit 2026-04-15T10:00:00+05:30 chore: add uv sync helper comments
+# refactor: simplify templates.py helpers at 2026-01-19T18:00:00+05:30
