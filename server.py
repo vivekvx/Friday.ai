@@ -38,3 +38,4 @@ if __name__ == "__main__":
 # feature commit 2026-04-02T10:00:00+05:30 refactor: tidy agent startup flow
 # feature commit 2026-04-10T10:00:00+05:30 chore: polish voice signal handling notes
 # docs: improve server.py documentation at 2026-01-17T10:00:00+05:30
+# refactor: simplify server.py helpers at 2026-01-24T18:00:00+05:30
