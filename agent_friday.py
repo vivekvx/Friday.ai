@@ -359,3 +359,4 @@ if __name__ == "__main__":
 # feature commit 2026-04-09T10:00:00+05:30 fix: correct voice tool integration docs
 # feature commit 2026-04-17T10:00:00+05:30 chore: update dependency lock and metadata
 # refactor: tidy agent_friday.py layout at 2026-01-16T18:00:00+05:30
+# docs: document agent_friday.py workflow at 2026-01-24T10:00:00+05:30
