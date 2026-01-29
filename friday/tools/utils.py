@@ -37,3 +37,4 @@ def register(mcp):
 # feature commit 2026-04-05T10:00:00+05:30 feat: improve LiveKit agent setup
 # feature commit 2026-04-13T10:00:00+05:30 refactor: improve agent lifecycle handling
 # docs: improve utils.py documentation at 2026-01-22T10:00:00+05:30
+# refactor: simplify utils.py helpers at 2026-01-29T18:00:00+05:30
