@@ -23,3 +23,4 @@ def register(mcp):
             "python_version": platform.python_version(),
         }
 # refactor: tidy system.py layout at 2026-01-21T18:00:00+05:30
+# docs: document system.py workflow at 2026-01-29T10:00:00+05:30
