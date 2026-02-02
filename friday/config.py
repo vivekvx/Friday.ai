@@ -31,3 +31,4 @@ config = Config()
 # feature commit 2026-04-11T10:00:00+05:30 feat: wire voice agent to MCP SSE tools
 # fix: correct config.py comments at 2026-01-18T18:00:00+05:30
 # fix: update config.py details at 2026-01-26T10:00:00+05:30
+# fix: correct config.py comments at 2026-02-02T18:00:00+05:30
