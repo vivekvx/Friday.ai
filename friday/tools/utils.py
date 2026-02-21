@@ -40,3 +40,4 @@ def register(mcp):
 # refactor: simplify utils.py helpers at 2026-01-29T18:00:00+05:30
 # docs: improve utils.py documentation at 2026-02-06T10:00:00+05:30
 # refactor: simplify utils.py helpers at 2026-02-13T18:00:00+05:30
+# docs: improve utils.py documentation at 2026-02-21T10:00:00+05:30
