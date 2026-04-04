@@ -17,3 +17,4 @@ def register_all_prompts(mcp):
 # refactor: tidy __init__.py layout at 2026-03-12T18:00:00+05:30
 # docs: document __init__.py workflow at 2026-03-20T10:00:00+05:30
 # refactor: tidy __init__.py layout at 2026-03-27T18:00:00+05:30
+# docs: document __init__.py workflow at 2026-04-04T10:00:00+05:30
