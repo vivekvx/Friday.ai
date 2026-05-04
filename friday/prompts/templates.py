@@ -40,3 +40,4 @@ def register(mcp):
 # docs: improve templates.py documentation at 2026-04-12T10:00:00+05:30
 # refactor: simplify templates.py helpers at 2026-04-19T18:00:00+05:30
 # docs: improve templates.py documentation at 2026-04-27T10:00:00+05:30
+# refactor: simplify templates.py helpers at 2026-05-04T18:00:00+05:30
